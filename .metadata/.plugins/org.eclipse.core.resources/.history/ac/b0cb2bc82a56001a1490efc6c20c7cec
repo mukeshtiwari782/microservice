@@ -1,0 +1,8 @@
+package com.mukesh.microservices.currencyexchangeservice;
+
+public class Snippet {
+	public static void main(String[] args) {
+		conversion_multiple
+	}
+}
+

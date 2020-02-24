@@ -1,0 +1,5 @@
+package com.mukesh.microservices.limitsservice.bean;
+
+public class LimitsConfiguration {
+
+}

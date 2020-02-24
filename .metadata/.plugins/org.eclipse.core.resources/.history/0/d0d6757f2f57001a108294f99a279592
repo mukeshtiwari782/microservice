@@ -1,0 +1,5 @@
+package com.mukesh.microservices.currencyconversionservice;
+
+public interface CurrencyExchangeServiceProxy {
+
+}
